@@ -89,7 +89,7 @@
 
 如果这个仓库对你有用，欢迎点个 Star，道友的修仙路上不孤单～
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_GITHUB_USERNAME/Awsome-Fanren-Idioms&type=Date)](https://star-history.com/#YOUR_GITHUB_USERNAME/Awsome-Fanren-Idioms&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=1215989787/Awsome-Fanren-Idioms&type=Date)](https://star-history.com/#1215989787/Awsome-Fanren-Idioms&Date)
 
 ---
 
